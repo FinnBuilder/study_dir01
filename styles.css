@@ -98,5 +98,6 @@ a {
   height: 30px;
   width: 150px;
   border-radius: 15px;
-  margin-left: 20px;
+  margin-left: 10px;
+  cursor: pointer; 
 }
